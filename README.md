@@ -1,15 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to Wei-Shan's Profolio
 
-You can use the [editor on GitHub](https://github.com/wei06159git/Weishan_profolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Wei-Shan Sun. Thank you very much for visiting my GitHub page!!! This profolio is mainly for Sierra College "IT75-Python for Many Uses" course. I will share my Python projects and a few projects from Java and C++ programming courses in here. Stay Tuned!!! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+## About Me
+<img src = "Picture_weishan sun.jpg">
+  I am an Accounting System Testing Student Assistant at California State Government, Franchise Tax Board. My job duties mainly focus on assisting with system testing of accounting systems, verifying software requirements and providing software test support such as test automation.  
+	In August 2019, I started pursuing online Master degree in Computer Science at Johns Hopkins University, Whiting School of Engineering. In May 2019, I received A.S. in Mathematics, Physics and Natural Science from Sierra College. In May 2017, I graduated from University of California, Berkeley with a B.A. degree.
+	Through my computer science courses, I have developed programming skills in Java, C++ and PostgreSQL. Now, because I am interested in big data and data analysis and thinking about changing the career path into data analytics, I decide to take this course to learn python. 
+	In my spare time, I enjoy watching movies, traveling and visiting art museums. In addition, I am a classical music lover and a flute player. In fact, I had played flute for 15 years and performed with several professional orchestras for 6 years.
 
 # Header 1
 ## Header 2
