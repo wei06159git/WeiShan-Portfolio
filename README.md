@@ -13,3 +13,5 @@ I am an Accounting System Testing Student Assistant at California State Governme
 - [Data Analytics](https://github.com/wei06159git/Data-Analytics)
 - [Python Hackathon](https://github.com/wei06159git/Python-Hackathon)
 
+
+[Click me to profile](https://github.com/wei06159git)
