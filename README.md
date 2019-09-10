@@ -7,7 +7,7 @@ I am an Accounting System Testing Student Assistant at California State Governme
 
 ### Links to Each unit of the course (IT 75)
 - [Fundamentals of Programming in Python](https://github.com/wei06159git/Fundamentals-of-Programming-in-Python)
-- [Internet of Things (IoT)] (https://github.com/wei06159git/Fundamentals-of-Programming-in-Python)
+- [Internet of Things (IoT)] (https://github.com/wei06159git/Internet-of-Things-IoT-)
 - Secure Scripting
 - Data Analytics
 - Python Hackathon
