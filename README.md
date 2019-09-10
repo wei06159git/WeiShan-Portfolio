@@ -3,7 +3,7 @@
 My name is Wei-Shan Sun. Thank you very much for visiting my GitHub page!!! This profolio is mainly for Sierra College "IT75-Python for Many Uses" course. I will share my Python projects and a few projects from Java and C++ programming courses in here. Stay Tuned!!! 
 
 ## About Me
-<img src = "https://drive.google.com/file/d/1LhzoEhPQE5tQVmbdTvlx6M0SmWkcjxmQ/view?usp=sharing">
+<img href = "https://drive.google.com/file/d/1LhzoEhPQE5tQVmbdTvlx6M0SmWkcjxmQ/view?usp=sharing">
 I am an Accounting System Testing Student Assistant at California State Government, Franchise Tax Board. My job duties mainly focus on assisting with system testing of accounting systems, verifying software requirements and providing software test support such as test automation.  
 
 	In August 2019, I started pursuing online Master degree in Computer Science at Johns Hopkins University, Whiting School of Engineering. In May 2019, I received A.S. in Mathematics, Physics and Natural Science from Sierra College. In May 2017, I graduated from University of California, Berkeley with a B.A. degree.
