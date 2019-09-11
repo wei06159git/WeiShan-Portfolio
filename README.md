@@ -1,4 +1,4 @@
-# Welcome to Wei-Shan's Profolio
+# Welcome to Wei-Shan's Portfolio
 
 My name is Wei-Shan Sun. Thank you very much for visiting my GitHub page!!! This profolio is mainly for Sierra College "IT75-Python for Many Uses" course. I will share my Python projects in here. Stay Tuned!!! 😊
 
