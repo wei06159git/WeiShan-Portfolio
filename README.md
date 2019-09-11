@@ -10,7 +10,7 @@ I am an Accounting System Testing Student Assistant at California State Governme
 - [Fundamentals of Programming in Python](https://github.com/wei06159git/Weishan_Profolio/blob/master/Fundamentals-of-Programming-in-Python.md)
 - [Internet of Things (IoT)](https://github.com/wei06159git/Weishan_Profolio/blob/master/Internet-of-Things.md)
 - [Secure Scripting](https://github.com/wei06159git/Weishan_Profolio/blob/master/Secure-Scripting.md)
-- [Data Analytics](https://github.com/wei06159git/Data-Analytics)
+- [Data Analytics](https://github.com/wei06159git/Weishan_Profolio/blob/master/Data-Analytics.md)
 - [Python Hackathon](https://github.com/wei06159git/Python-Hackathon)
 
 
