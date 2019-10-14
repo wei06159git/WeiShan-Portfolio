@@ -1,4 +1,5 @@
 # prompt user to enter fav numbers and then write into the file
+# Coder: Wei-Shan Sun
 dummy = True
 while dummy == True:
     username = input("\nEnter your name: ")
