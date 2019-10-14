@@ -1,4 +1,5 @@
 #Read file and print the content
+#Coder: Wei-Shan Sun
 with open("Sun-favoriteNumbers.txt") as file_ob:
         lines = file_ob.readlines()
 
