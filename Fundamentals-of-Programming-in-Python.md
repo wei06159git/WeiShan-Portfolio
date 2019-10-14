@@ -26,7 +26,7 @@
   <ol>
     <li>Favorite Number Project</li>
     <ul><li><a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-FavoriteNumbers-1.py">Read in file and search for the user's request</a></li>
-      <li>Write into the files and edit</li>
+      <li><a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-FavoriteNumbers.py">Write into the files and edit</a></li>
     </ul>
   </ol>
 </ul>
