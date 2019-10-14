@@ -6,7 +6,7 @@
   <li><b>Functions</b></li>
   <t>I understand the syntax of the python functions and know how to create one to perform meaningful task.</t>
   <li><b>Lists and Dictionaries</b></li>
-  <t>Identify the different characteristics and uses of Python lists and dictionaries.</t>
+  <t>I can identify the different characteristics and uses of Python lists and dictionaries, and understand how to apply it to the codes.</t>
   <li><b>String Methods and Exception Handling</b></li>
   <t>I learned the string methods to format the string or text. Besides of that, I can  </t>
   <li><b>File Input/Output</b></li>
