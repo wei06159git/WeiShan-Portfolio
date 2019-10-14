@@ -5,8 +5,8 @@
   <t>I am able to differentiate between the forms and uses of iterative and conditional execution constructs. In addition, I have developed Python logic, using iteration and conditional statements, to interrogate and modify data contained in lists and dictionaries.</t>
   <ol><li>Scissors-Paper-rock Game</li>
     <ul style="list-style-type:circle;">
-      <li>Human vs. Computer</li>
-      <li>Human vs. Human</li>
+      <li>[Human vs. Computer]</li>
+      <li>[Human vs. Human](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/rock-paper-scissors.py)</li>
     </ul>
     <li>Password Manager Project</li>
   </ol>
