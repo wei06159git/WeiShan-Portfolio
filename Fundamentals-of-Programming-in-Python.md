@@ -6,7 +6,7 @@
   <ol><li>Scissors-Paper-rock Game</li>
     <ul style="list-style-type:circle;">
       <li>[Human vs. Computer]</li>
-      <li>[Human vs. Human](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/rock-paper-scissors.py)</li>
+      <li><a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/rock-paper-scissors.py">Human vs. Human</a></li>
     </ul>
     <li>Password Manager Project</li>
   </ol>
