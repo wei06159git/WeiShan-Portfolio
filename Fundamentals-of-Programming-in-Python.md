@@ -25,7 +25,7 @@
   <t>I have ability to produce python codes to read from existed file, edit the existed file and write to a new file. </t>
   <ol>
     <li>Favorite Number Project</li>
-    <ul><li>Read in file and search for the user's request</li>
+    <ul><li><a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-FavoriteNumbers-1.py">Read in file and search for the user's request</a></li>
       <li>Write into the files and edit</li>
     </ul>
   </ol>
