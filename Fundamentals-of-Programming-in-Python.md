@@ -8,12 +8,12 @@
       <li><a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/rockpaperscissors.py">Human vs. Computer</a></li>
       <li><a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/rock-paper-scissors.py">Human vs. Human</a></li>
     </ul>
-    <li>Password Manager Project</li>
+    <li><a href = "https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-PasswordManager.py">Password Manager Project</a></li>
   </ol>
   <li><b>Functions</b></li>
   <t>I understand the syntax of the python functions and know how to create one to perform meaningful task.</t>
     <ol><li><a href = "https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-EncryptionProject.py">Encryption Project</a></li>
-    <li>Password Manager Project</li>
+    <li><a href ="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-PasswordManager.py">Password Manager Project</a></li>
   </ol>
   <li><b>Lists and Dictionaries</b></li>
   <t>I can identify the different characteristics and uses of Python lists and dictionaries, and understand how to apply it to the codes.</t>
