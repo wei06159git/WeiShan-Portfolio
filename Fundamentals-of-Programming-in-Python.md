@@ -21,6 +21,7 @@
   </ol>
   <li><b>String Methods and Exception Handling</b></li>
   <t>I learned the string methods to format the string or text. Besides of that, I have studied how to utilize the "try-except" to handle the error.</t>
+  <ol><li>String Methods</li> </ol>
   <li><b>File Input/Output</b></li>
   <t>I have ability to produce python codes to read from existed file, edit the existed file and write to a new file. </t>
   <ol>
