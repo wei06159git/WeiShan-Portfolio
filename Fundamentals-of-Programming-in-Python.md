@@ -17,7 +17,7 @@
   </ol>
   <li><b>Lists and Dictionaries</b></li>
   <t>I can identify the different characteristics and uses of Python lists and dictionaries, and understand how to apply it to the codes.</t>
-    <ol><li>Picture Grid</li>
+    <ol><li><a href = "https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-PictureGrid.py">Picture Grid</a></li>
   </ol>
   <li><b>String Methods and Exception Handling</b></li>
   <t>I learned the string methods to format the string or text. Besides of that, I have studied how to utilize the "try-except" to handle the error.</t>
