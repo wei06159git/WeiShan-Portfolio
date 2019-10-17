@@ -12,7 +12,7 @@
   </ol>
   <li><b>Functions</b></li>
   <t>I understand the syntax of the python functions and know how to create one to perform meaningful task.</t>
-    <ol><li>Encryption Project</li>
+    <ol><li><a href = "https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-EncryptionProject.py">Encryption Project</a></li>
     <li>Password Manager Project</li>
   </ol>
   <li><b>Lists and Dictionaries</b></li>
