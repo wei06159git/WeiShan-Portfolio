@@ -6,6 +6,7 @@
   <ol><li>Scissors-Paper-rock Game</li>
     <ul style="list-style-type:circle;">
       <li><a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/rockpaperscissors.py">Human vs. Computer</a></li>
+      <p>In this game, I created a game that human can play against the computer. In order to create a computer role, I imported random module to randomly generate scissors, paper or rock. Then, to know who wins, I utilized conditional statements(if-elif-else) to list all the situations and write out the expected results for each situation. In addition, I made this a three round game so that I used while loop to make whole conditional statements run three times.</p>
       <li><a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/rock-paper-scissors.py">Human vs. Human</a></li>
     </ul>
     <li><a href = "https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-PasswordManager.py">Password Manager Project</a></li>
@@ -18,6 +19,7 @@
   <li><b>Lists and Dictionaries</b></li>
   <t>I can identify the different characteristics and uses of Python lists and dictionaries, and understand how to apply it to the codes.</t>
     <ol><li><a href = "https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-PictureGrid.py">Picture Grid</a></li>
+      <p>In this program, I created a 2 dimensional list to draw a cat.🐱</p>
   </ol>
   <li><b>String Methods and Exception Handling</b></li>
   <t>I learned the string methods to format the string or text. Besides of that, I have studied how to utilize the "try-except" to handle the error.</t>
