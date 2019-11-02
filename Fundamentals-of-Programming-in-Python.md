@@ -6,7 +6,7 @@
   <ol><li>Scissors-Paper-rock Game</li>
     <ul style="list-style-type:circle;">
       <li><a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/rockpaperscissors.py">Human vs. Computer</a></li>
-      <p>In this game, I created a game that human can play against the computer. In order to create a computer role, I imported random module to randomly generate scissors, paper or rock. Then, to know who wins, I utilized conditional statements(if-elif-else) to list all the situations and write out the expected results for each situation. In addition, I made this a three round game so that I used while loop to make whole conditional statements run three times.</p>
+      <p>In this game, I created a game that human can play against the computer. In order to create a computer role, I imported random module to randomly generate scissors, paper or rock. Then, to know who wins, I utilized conditional statements(if-elif-else) to list all the situations and write out the expected results for each situation. If human enters something irrelevant, the program will give a message said "Invalid Input" and ask user to enter again. In addition, I made this a three round game so that I used while loop to make whole conditional statements run three times.</p>
       <li><a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/rock-paper-scissors.py">Human vs. Human</a></li>
       <p>In this game, I created a game that human play against human. I utilized the similar conditional statements mentioned above to determine who wins. The special thing about this program is that I imported stdiomask which will convert user input into '*'. By doing this way, no way can see other people's typing. </p>
     </ul>
