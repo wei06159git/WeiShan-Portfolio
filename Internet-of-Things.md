@@ -6,4 +6,4 @@
 
 
 <h4>Works Cited</h4>
-<p>Clark, Jen. <t>“What Is the Internet of Things, and How Does It Work?”</t> Internet of Things Blog, 19 Sept. 2017, https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/.</p>
+<p>Clark, Jen. <i>“What Is the Internet of Things, and How Does It Work?”</i> Internet of Things Blog, 19 Sept. 2017, https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/.</p>
