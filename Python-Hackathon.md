@@ -3,7 +3,7 @@
 <p>Idea behind this game: I want to explore the pygame module so I decided to create a 1980-like style 2D shooting game. In addition, nowadays, people like me are busy and sometimes I just need 5-10 minutes to temporary get away from school, work and other things. Thus, I create this simple game to help people relaxed for a moment and this game can be finished in a short period of time.</p>
 <p>Improvement: I could have implemented audio/sound effect to make the game more interested. In addition, I should put more monsters in this game to make the game a bit harder and challenged.</p>
 <p>Business Opportunity: This game can be a mobile app that everyone can play it at anytime and anywhere.</p>
-
+<img src="SpaceInvadersPic.png" width="400" height="300">
 
 
 
