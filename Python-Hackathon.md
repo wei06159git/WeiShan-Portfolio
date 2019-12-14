@@ -10,4 +10,4 @@
 
 <h4>Source code is referenced from: https://github.com/attreyabhatt/Space-Invaders-Pygame/commits?author=attreyabhatt</h4>
 
-<a href="">About Me</a>
+<a href="https://wei06159git.github.io/WeiShan-Portfolio/">About Me</a>
