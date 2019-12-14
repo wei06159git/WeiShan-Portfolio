@@ -4,8 +4,8 @@
 <p>Improvement: I could have implemented audio/sound effect to make the game more interested. Also, I would put a Start button on the screen and so whenever people are ready to play the game, they can press the start button and play the game. In addition, I should put more monsters in this game to make the game a bit harder and challenged.</p>
 <p>Business Opportunity: This game can be a mobile app that everyone can play it at anytime and anywhere.</p>
 <img src="SpaceInvadersPic.png" width="400" height="300">
-<video src="Sun-PythonFinalProject.mp4" width="320" height="200" controls preload></video>
-<a href="">Link to Demo Video</a>
+<video src="Sun-PythonFinalProject.mp4" width="320" height="200" controls preload>🎮</video>
+<a href="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun-PythonFinalProject.mp4">Link to Demo Video</a>
 <h4>Source code is referenced from: https://github.com/attreyabhatt/Space-Invaders-Pygame/commits?author=attreyabhatt</h4>
 
 <a href="https://wei06159git.github.io/WeiShan-Portfolio/">😀Go Back to "About Me" page</a>
