@@ -8,4 +8,4 @@
 
 
 
-<h3>Source code is referenced from: https://github.com/attreyabhatt/Space-Invaders-Pygame/commits?author=attreyabhatt</h3>
+<h4>Source code is referenced from: https://github.com/attreyabhatt/Space-Invaders-Pygame/commits?author=attreyabhatt</h4>
