@@ -12,7 +12,7 @@ I am an automation tester at California State Government, Franchise Tax Board. M
 
 ### Java Projects/Assignment:
 -[Water Dam Report]
-<br>-[Clueless Game](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/ClueLess/README.md)
+<br>-[ClueLess Game](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/ClueLess/README.md)
 ### Python Projects/Assignment:
 - [Fundamentals of Programming in Python](https://github.com/wei06159git/Weishan_Profolio/blob/master/Fundamentals-of-Programming-in-Python.md)
 - [Internet of Things (IoT)](https://github.com/wei06159git/Weishan_Profolio/blob/master/Internet-of-Things.md)
