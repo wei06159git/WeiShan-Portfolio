@@ -11,6 +11,7 @@ represent the costs incurred at various levels of the recursion and then use thi
 - Chip-and-Be-Conquered: T(n) = aT(n-b) + f(n), where constants
   - a is an integer such that a >= 1
   - b > 0, and b is an integer
+  
 <br>My algorithm accpets the f(n) forms as shown below:</br>
   - polynomial - c(n^d) where c & d are rational numbers
   - logarithmic - c(log(base e)^(d)(n)), where c,d and e are rational numbers
