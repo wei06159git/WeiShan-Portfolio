@@ -1,7 +1,7 @@
 # Water Dam Report
 ### Background and Purpose of the project:
 California's water crisis is well known among the states. Espacially, California often experiences the extreme drought. It is hard to solve it because there are many factors contributing to it. Right now, given our current California wet winter and the recent Orovill Dame emergency, how to better to manage the dam?
-<br>To be able to manage Sam's water, we need to know:
+<br>To be able to manage Dam's water, we need to know:
 1. Is it filling, draining or holding steady?
 2. How full is it right now (in %)?
 3. What happens to the dam status if we import or release a lot of water?
