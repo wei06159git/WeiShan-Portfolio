@@ -22,7 +22,10 @@ The Clue-Less game project aims to create a digital and simplified version of th
 ### Information
 
 * [libGDX Wiki](https://github.com/libgdx/libgdx/wiki) - Contains useful information about the libGDX game framework
-* [libGDX API Javadoc](https://libgdx.badlogicgames.com/ci/nightlies/docs/api/) - API Javadoc information about libGDX   
+* [libGDX API Javadoc](https://libgdx.badlogicgames.com/ci/nightlies/docs/api/) - API Javadoc information about libGDX  
+
+#### Source Code can be found here: 
+https://github.com/wei06159git/WeiShan-Portfolio/tree/master/ClueLess/src/jhu/neptune/clueless
 
 ## Authors
 
