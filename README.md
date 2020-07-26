@@ -10,7 +10,7 @@ I am an automation tester at California State Government, Franchise Tax Board. M
 - [Recursion Tree](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Recursion%20Tree.md)
 - [Quicksort with 2 kinds of partition](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/QuickSort.md)</br>
 
-### Java Projects/Assignment:
+### Java Projects:
 - [Water Dam Report](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Water%20Dam%20Report/src/DamReport.java)
 - [ClueLess Game](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/ClueLess/README.md)
 ### Python Projects/Assignment:
