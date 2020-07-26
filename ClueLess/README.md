@@ -7,6 +7,12 @@ Johns Hopkins University: EN.605.601.86.FA19 - Foundations of Software Engineeri
 ## Introduction: 
 The Clue-Less game project aims to create a digital and simplified version of the popular game Clue®. It was designed to run on Microsoft Windows.
 
+## Built With
+
+* [libGDX](https://github.com/libgdx/libgdx) - The game framework used for this repository.
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [Gradle](https://gradle.org/) - Build Tool
+
 ### IDEs
 
 * [IntelliJ IDEA IDE](https://www.jetbrains.com/idea/download/#section=windows)
@@ -16,12 +22,6 @@ The Clue-Less game project aims to create a digital and simplified version of th
 
 * [libGDX Wiki](https://github.com/libgdx/libgdx/wiki) - Contains useful information about the libGDX game framework
 * [libGDX API Javadoc](https://libgdx.badlogicgames.com/ci/nightlies/docs/api/) - API Javadoc information about libGDX   
-
-## Built With
-
-* [libGDX](https://github.com/libgdx/libgdx) - The game framework used for this repository.
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [Gradle](https://gradle.org/) - Build Tool
 
 ## Authors
 
