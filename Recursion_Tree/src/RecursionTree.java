@@ -1,7 +1,6 @@
 /*
  * Wei-Shan Sun
- * Programming Assignment 0 - Closest Pairs 
- * This Program uses Brute Force to solve it
+ * Programming Assignment 1 - Recursion Tree
  * IDE: Eclipse Neon.3 Release (4.6.3)
  * Runtime Environment
  * Platform: Apple Mac OS
