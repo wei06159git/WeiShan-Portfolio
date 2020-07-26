@@ -34,6 +34,6 @@ https://github.com/wei06159git/WeiShan-Portfolio/tree/master/ClueLess/src/jhu/ne
 * **Quet Quartey**         - Lead Architect             - [quetquartey@gmail.com](quetquartey@gmail.com)
 * **Wei-Shan Sun**         - Lead S.Q.A / Tester        - [wsun29@jhu.edu](wsun29@jhu.edu)
 * **Rosalyn Ram**          - Lead Configuration Manager - [rosalynram@gmail.com](rosalynram@gmail.com)
-
+Below are Main Game Board Screens including the draft:
 <img src="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Main%20Screen%20Draft.png" width="610" height="561">
 <img src="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Main%20Screen.png" width="470" height="265">
