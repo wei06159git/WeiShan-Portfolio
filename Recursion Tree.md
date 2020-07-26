@@ -2,7 +2,7 @@
 ## Introduction: 
 There are several ways to solve recurrences. Those include substitution method, recursion-tree method and master method. In here, I designed an algorithm to generate a recursion tree. The recursion-tree method converts the recurrence into a tree whose nodes
 represent the costs incurred at various levels of the recursion and then use this technique for bounding summations to solve the recurrence (Cormen et al., 2009, p. 66).
-<br><b>My source code Link: </b></br> 
+<br><b>My source code Link: https://github.com/wei06159git/WeiShan-Portfolio/tree/master/Recursion_Tree/src</b></br> 
 <br>My algorithm accepts the following recurrence forms as shown below:</br>
 - Divide-and-Conquer: T(n) = aT(n/b) + f(n), where constants
   - a is an integer such that a >= 1
