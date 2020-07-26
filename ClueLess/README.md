@@ -35,5 +35,5 @@ https://github.com/wei06159git/WeiShan-Portfolio/tree/master/ClueLess/src/jhu/ne
 * **Wei-Shan Sun**         - Lead S.Q.A / Tester        - [wsun29@jhu.edu](wsun29@jhu.edu)
 * **Rosalyn Ram**          - Lead Configuration Manager - [rosalynram@gmail.com](rosalynram@gmail.com)
 
-<img src="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Main%20Screen%20Draft.png" width="305" height="280">
+<img src="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Main%20Screen%20Draft.png" width="610" height="561">
 <img src="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Main%20Screen.png" width="470" height="265">
