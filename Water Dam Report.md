@@ -17,5 +17,5 @@ I use Java to create a user interface program to report California water dam’s
 3. To let user be able to manage the Dam’s water, the program shows the predicted dam status under the situations where importing or releasing the water and increasing or decreasing the water outflow.
 
 ### Source files and source code:
-Source folder can be found here: https://github.com/wei06159git/WeiShan-Portfolio/tree/master/Water%20Dam%20Report/src
-<br>Source code for Water Dam Report can be found here: https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Water%20Dam%20Report/src/DamReport.java
+[Source folder can be found here](https://github.com/wei06159git/WeiShan-Portfolio/tree/master/Water%20Dam%20Report/src)
+[Source code for Water Dam Report can be found here](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Water%20Dam%20Report/src/DamReport.java)
