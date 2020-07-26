@@ -6,9 +6,6 @@
  * Date:      05/21/18
  *
  * Filename:  DamReportWS.java
- *
- * Purpose:   Practice using object array and reusing previous classes inclusing DamWS, ChessTutor and UtilsWS to create a dam report.
- */
 
 import java.util.Scanner;
 import java.io.File; 
