@@ -36,4 +36,4 @@ https://github.com/wei06159git/WeiShan-Portfolio/tree/master/ClueLess/src/jhu/ne
 * **Rosalyn Ram**          - Lead Configuration Manager - [rosalynram@gmail.com](rosalynram@gmail.com)
 
 <img src="Main Screen Draft.png" width="305" height="280">
-<img src="Main Screen.png" width="470" height="265">
+<img src="https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Main%20Screen.png" width="470" height="265">
