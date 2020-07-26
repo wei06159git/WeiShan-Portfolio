@@ -8,7 +8,7 @@ I am an automation tester at California State Government, Franchise Tax Board. M
 
 ### Algorithms:
 -[Recursion Tree](https://github.com/wei06159git/WeiShan-Portfolio/tree/master/Recursion_Tree/src)
--[Quicksort with 2 kinds of partition]
+-[Quicksort with 2 kinds of partition](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Sun_QuickSort.java)
 
 ### Java Projects/Assignment:
 -[Water Dam Report]
