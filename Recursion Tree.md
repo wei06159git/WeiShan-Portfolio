@@ -16,7 +16,8 @@ represent the costs incurred at various levels of the recursion and then use thi
   - logarithmic - c(log(base e)^(d)(n)), where c,d and e are rational numbers
 
 My analysis of Big-O asymptotic running time for Divide-and-Conquer Recursion Tree & Chip-and-Be-Conquer Recursion Tree:
-
+<img src="Divide-and-Conquer Recursion Tree.png" width="854" height="421">
+<img src="Chip-and-Be-Conquer Recursion Tree.png" width="854" height="421">
 
 ### Reference:
 Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to algorithms. Retrieved from https://ebookcentral.proquest.com
