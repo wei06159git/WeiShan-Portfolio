@@ -11,7 +11,7 @@ I am an automation tester at California State Government, Franchise Tax Board. M
 <br>-[Quicksort with 2 kinds of partition](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/QuickSort.md)</br>
 
 ### Java Projects/Assignment:
--[Water Dam Report]
+-[Water Dam Report](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/Water%20Dam%20Report/src/DamReport.java)
 <br>-[ClueLess Game](https://github.com/wei06159git/WeiShan-Portfolio/blob/master/ClueLess/README.md)
 ### Python Projects/Assignment:
 - [Fundamentals of Programming in Python](https://github.com/wei06159git/Weishan_Profolio/blob/master/Fundamentals-of-Programming-in-Python.md)
