@@ -1,6 +1,6 @@
 # Water Dam Report
 ### Background and Purpose of the project:
-California's water crisis is well known among the states. Especially, California often experiences the extreme drought. Right now, given our current California wet winter and the recent Orovill Dame emergency, it becomes important to manage the dams wisely.
+California's water crisis is well known among the states. Especially, California often experiences the extreme drought. Right now, given our current California wet winter and the recent Orovill Dam emergency, it becomes important to manage the dams wisely.
 <br>[Current California state water status data can be found here](http://cdec.water.ca.gov/reportapp/javareports?name=RES)
 <br>To be able to better manage Dam's water, we need to know:
 1. Is it filling, draining or holding steady?
