@@ -12,5 +12,11 @@ The data is a sequence of ordered triples (Ci,Cj,tk). Such a triple indicates th
 Let's assume computer C1 got infected at time 2. 
 
 ### Brute-Force Code:
-
+https://github.com/wei06159git/WeiShan-Portfolio/blob/master/TraceInfection/src/TraceInfection.java
 ### Optimized Code (Disjoint Set Algorithm):
+https://github.com/wei06159git/WeiShan-Portfolio/blob/master/TraceInfection/src/VirusTrace.java
+
+
+
+
+<br>Please let me know what can be improved! Thank you!</br>
