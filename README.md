@@ -1,6 +1,6 @@
 # Welcome to WeiShan's Portfolio
 
-My name is WeiShan Sun. Thank you very much for visiting my GitHub page!!! This portfolio is mainly for sharing my academic projects and assignments here. Stay Tuned!!! 😊
+My name is WeiShan Sun. Thank you very much for visiting my GitHub page!!! This portfolio is mainly for sharing my academic projects and assignments here. 😊
 
 ## About Me
 <img src="Picture_weishan sun.jpg" width="258" height="244">
